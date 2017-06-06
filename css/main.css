@@ -1,0 +1,62 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+img{
+	width: 100%; 
+	height:100%;
+}
+
+.pequeña{
+	width: 60%; 
+	height:60%;
+}
+.quitar-float{
+	float:none;
+}
+
+.espacio-arriba{
+	margin-top: 0em;
+}
+
+.espacio-medio{
+	margin-top: 1em;
+}
+
+.espacio-grande{
+	margin-top: 6em;
+}
+
+.grande{
+	font-size: 50px;
+}
+
+.mediano{
+	font-size: 40px;
+}
+
+.chico{
+	font-size: 20px
+}
+
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.posicion {
+
+position: absolute;
+
+top: 400px;
+
+left: 0;
+
+width: 100%;
+
+size: 500em;
+
+}
+
